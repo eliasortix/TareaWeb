@@ -1,0 +1,12 @@
+:root{
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  --font-color-cta : #f8f8f8;  
+  --font-size-h1-cta : 8vw;
+
+  --primary-color:rgb(0, 0, 0);
+  --primary-color-alpha:rgb(90, 90, 90);
+
+  --font-color-header : #c9c9c9;
+  --font-family-header : "Lilita One", sans-serif;
+  --site-width: 900px;
+}

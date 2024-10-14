@@ -1,0 +1,9 @@
+header#top{
+  form{
+    background-color: var(--primary-color-alpha);
+    display:flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  }
+}
